@@ -262,10 +262,6 @@ export default function Home() {
           <div><strong>Millions</strong><span>of users reached</span></div>
           <div><strong>3</strong><span>major product domains</span></div>
         </div>
-
-        <a className="button primary-button" href="/Ethan-Ali-Resume.pdf" target="_blank" rel="noreferrer">
-          View original resume <span aria-hidden="true">↗</span>
-        </a>
       </section>
 
       <section className="section skills-section" id="skills" aria-labelledby="skills-title">
